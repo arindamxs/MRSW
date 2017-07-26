@@ -1,0 +1,5 @@
+C:\Users\ARI\documents\visual studio 2012\Projects\MR Software Web\MR Software Web\bin\MR Software Web.dll
+C:\Users\ARI\documents\visual studio 2012\Projects\MR Software Web\MR Software Web\bin\MR Software Web.pdb
+C:\Users\ARI\documents\visual studio 2012\Projects\MR Software Web\MR Software Web\obj\Debug\MR Software Web.dll
+C:\Users\ARI\documents\visual studio 2012\Projects\MR Software Web\MR Software Web\obj\Debug\MR Software Web.pdb
+C:\Users\ARI\Documents\Visual Studio 2012\Projects\MR Software Web\MR Software Web\obj\Debug\MR Software Web.csprojResolveAssemblyReference.cache
